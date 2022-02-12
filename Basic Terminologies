@@ -40,4 +40,4 @@ CAP Theorem states that in a distributed system, it is impossible to simultaneou
 •  Consistency
 •  Availability
 •  Partition Tolerance
-http://ksat.me/a-plain-english-introduction-to-cap-theorem/
+https://www.geeksforgeeks.org/the-cap-theorem-in-dbms/
