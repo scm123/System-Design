@@ -19,6 +19,7 @@ two nodes (both nodes are up, but can’t communicate).
 
 Vertical scaling and Horizontal scaling : In simple terms, to scale horizontally is adding more servers. To scale vertically is to increase the resources
 of the server ( RAM, CPU, storage, etc. ). 
+https://www.section.io/blog/scaling-horizontally-vs-vertically/#:~:text=Horizontal%20scaling%20means%20scaling%20by,as%20%E2%80%9Cscaling%20up%E2%80%9D).
 
 Example: Lets say you own a restaurant which is now exceeding its seating capacity. One way of accommodating more people ( scaling ) would be to add more 
 and more chairs (scaling vertically). However since the space is limited, you won’t be able to add more chairs once the space is full. 
@@ -27,6 +28,7 @@ Source : http://stackoverflow.com/questions/5401992/what-does-scale-horizontally
 
 Sharding : With most huge systems, data does not fit on a single machine. In such cases, sharding refers to splitting the very large database into smaller, 
 faster and more manageable parts called data shards.
+https://www.digitalocean.com/community/tutorials/understanding-database-sharding
 
 Durability : In database systems, durability is the ACID property which guarantees that transactions that have committed will survive permanently.
 
